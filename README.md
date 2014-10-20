@@ -1,5 +1,5 @@
 
-##XSTINKT
+###XSTINCT
 
 
 is a combination of several projects for the purposes of :
