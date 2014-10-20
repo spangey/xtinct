@@ -1,11 +1,11 @@
 
-'''
+'
 
    _  __    __  _          __ 
   | |/_/__ / /_(_)__  ____/ /_
  _>  <(_-</ __/ / _ \/ __/ __/
 /_/|_/___/\__/_/_//_/\__/\__/
-'''
+'
 
 is a combination of several projects for the purposes of :
 
